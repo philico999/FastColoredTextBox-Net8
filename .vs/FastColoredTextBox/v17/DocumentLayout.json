@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox\\fastcoloredtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|solutionrelative:fastcoloredtextbox\\fastcoloredtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox\\fastcoloredtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|solutionrelative:fastcoloredtextbox\\fastcoloredtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075BF448-A092-40F3-9F74-F25EFD5096D3}|FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox.test\\fixtures\\powerfulsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075BF448-A092-40F3-9F74-F25EFD5096D3}|FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj|solutionrelative:fastcoloredtextbox.test\\fixtures\\powerfulsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox\\syntaxhighlighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|solutionrelative:fastcoloredtextbox\\syntaxhighlighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075BF448-A092-40F3-9F74-F25EFD5096D3}|FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox.test\\fixtures\\customtextsourcesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075BF448-A092-40F3-9F74-F25EFD5096D3}|FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj|solutionrelative:fastcoloredtextbox.test\\fixtures\\customtextsourcesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075BF448-A092-40F3-9F74-F25EFD5096D3}|FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox.test\\fixtures\\bilingualhighlightersample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075BF448-A092-40F3-9F74-F25EFD5096D3}|FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj|solutionrelative:fastcoloredtextbox.test\\fixtures\\bilingualhighlightersample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075BF448-A092-40F3-9F74-F25EFD5096D3}|FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox.test\\fixtures\\lazyloadingsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075BF448-A092-40F3-9F74-F25EFD5096D3}|FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj|solutionrelative:fastcoloredtextbox.test\\fixtures\\lazyloadingsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox\\hotkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|solutionrelative:fastcoloredtextbox\\hotkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|solutionrelative:fastcoloredtextbox\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox\\fctbform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|solutionrelative:fastcoloredtextbox\\fctbform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox\\style.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|solutionrelative:fastcoloredtextbox\\style.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox\\fctbbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|solutionrelative:fastcoloredtextbox\\fctbbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox\\rgb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|solutionrelative:fastcoloredtextbox\\rgb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox\\fastcoloredtextbox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E765098F-BF00-427F-B2CD-ED77D05128E1}|FastColoredTextBox\\FastColoredTextBox.csproj|solutionrelative:fastcoloredtextbox\\fastcoloredtextbox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075BF448-A092-40F3-9F74-F25EFD5096D3}|FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj|c:\\users\\costas\\source\\repos\\myrepos\\lgplv3 compliance\\fastcoloredtextbox\\fastcoloredtextbox.test\\fastcoloredtextbox.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{075BF448-A092-40F3-9F74-F25EFD5096D3}|FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj|solutionrelative:fastcoloredtextbox.test\\fastcoloredtextbox.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FastColoredTextBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\FastColoredTextBox.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox\\FastColoredTextBox.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\FastColoredTextBox.cs [Design]",
+              "RelativeToolTip": "FastColoredTextBox\\FastColoredTextBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:53:05.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PowerfulSample.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox.Test\\Fixtures\\PowerfulSample.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox.Test\\Fixtures\\PowerfulSample.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox.Test\\Fixtures\\PowerfulSample.cs",
+              "RelativeToolTip": "FastColoredTextBox.Test\\Fixtures\\PowerfulSample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:35:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LazyLoadingSample.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox.Test\\Fixtures\\LazyLoadingSample.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox.Test\\Fixtures\\LazyLoadingSample.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox.Test\\Fixtures\\LazyLoadingSample.cs",
+              "RelativeToolTip": "FastColoredTextBox.Test\\Fixtures\\LazyLoadingSample.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIA3wDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:12:58.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomTextSourceSample.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox.Test\\Fixtures\\CustomTextSourceSample.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox.Test\\Fixtures\\CustomTextSourceSample.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox.Test\\Fixtures\\CustomTextSourceSample.cs",
+              "RelativeToolTip": "FastColoredTextBox.Test\\Fixtures\\CustomTextSourceSample.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAEwC0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:12:49.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BilingualHighlighterSample.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox.Test\\Fixtures\\BilingualHighlighterSample.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox.Test\\Fixtures\\BilingualHighlighterSample.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox.Test\\Fixtures\\BilingualHighlighterSample.cs",
+              "RelativeToolTip": "FastColoredTextBox.Test\\Fixtures\\BilingualHighlighterSample.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:12:26.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SyntaxHighlighter.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\SyntaxHighlighter.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox\\SyntaxHighlighter.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\SyntaxHighlighter.cs",
+              "RelativeToolTip": "FastColoredTextBox\\SyntaxHighlighter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:02:49.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hotkeys.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\Hotkeys.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox\\Hotkeys.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\Hotkeys.cs",
+              "RelativeToolTip": "FastColoredTextBox\\Hotkeys.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAlwDoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:12:03.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Style.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\Style.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox\\Style.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\Style.cs",
+              "RelativeToolTip": "FastColoredTextBox\\Style.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:02:42.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FCTBForm.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\FCTBForm.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox\\FCTBForm.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\FCTBForm.cs",
+              "RelativeToolTip": "FastColoredTextBox\\FCTBForm.cs",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAuwIsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:02:08.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FctbButton.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\FctbButton.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox\\FctbButton.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\FctbButton.cs",
+              "RelativeToolTip": "FastColoredTextBox\\FctbButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:02:00.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RGB.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\RGB.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox\\RGB.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\RGB.cs",
+              "RelativeToolTip": "FastColoredTextBox\\RGB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:58:34.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\ColorHelper.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox\\ColorHelper.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\ColorHelper.cs",
+              "RelativeToolTip": "FastColoredTextBox\\ColorHelper.cs",
+              "ViewState": "AgIAAJ0CAAAAAAAAAAAuwK8CAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:56:27.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FastColoredTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\FastColoredTextBox.cs",
+              "RelativeDocumentMoniker": "FastColoredTextBox\\FastColoredTextBox.cs",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\FastColoredTextBox.cs",
+              "RelativeToolTip": "FastColoredTextBox\\FastColoredTextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:55:30.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FastColoredTextBox.Test",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj",
+              "RelativeDocumentMoniker": "FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj",
+              "RelativeToolTip": "FastColoredTextBox.Test\\FastColoredTextBox.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T19:55:16.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FastColoredTextBox",
+              "DocumentMoniker": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\FastColoredTextBox.csproj",
+              "RelativeDocumentMoniker": "FastColoredTextBox\\FastColoredTextBox.csproj",
+              "ToolTip": "C:\\Users\\costas\\source\\repos\\MyRepos\\LGPLv3 Compliance\\FastColoredTextBox\\FastColoredTextBox\\FastColoredTextBox.csproj",
+              "RelativeToolTip": "FastColoredTextBox\\FastColoredTextBox.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T19:55:12.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

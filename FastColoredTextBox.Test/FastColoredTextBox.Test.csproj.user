@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Fixtures\AutocompleteSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\AutocompleteSample2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\AutocompleteSample3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\AutocompleteSample4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\AutoIndentCharsSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\AutoIndentSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\BilingualHighlighterSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\BookmarksSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\ConsoleSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\CustomFoldingSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\CustomHint.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Fixtures\CustomScrollBarsSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\CustomStyleSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\CustomTextSourceSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\CustomTextSourceSample2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\CustomWordWrapSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\DiffMergeSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\DocumentMapSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\DynamicSyntaxHighlighting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\GifImageDrawingSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\HintSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\HyperlinkSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\IMEsample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\JokeSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\LazyLoadingSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\LoggerSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\MacrosSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\MarkerToolSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\OpenTypeFontSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\PowerfulSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\PredefinedStylesSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\ReadOnlyBlocksSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\RulerSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\Sandbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\SimplestCodeFoldingSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\SimplestSyntaxHighlightingSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\SplitSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\SyntaxHighlightingByXmlDescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\TooltipSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fixtures\VisibleRangeChangedDelayedSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

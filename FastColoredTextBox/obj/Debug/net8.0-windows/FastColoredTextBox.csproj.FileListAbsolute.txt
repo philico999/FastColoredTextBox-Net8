@@ -1,0 +1,42 @@
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\AI\GptClient.db
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\DataProcessing\DDLHelpers\SqlValidator.db
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\DateTimeProcessing\NonWorkingDays.db
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\DateTimeProcessing\NonWorkingDays.db-shm
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\DateTimeProcessing\NonWorkingDays.db-wal
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\Security\Credentials.db
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\FastColoredTextBox.deps.json
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\FastColoredTextBox.dll
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\FastColoredTextBox.pdb
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\QuickNet.dll
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\QuickNet.pdb
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\QuickNet.dll.config
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.csproj.AssemblyReference.cache
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBoxNS.FindForm.resources
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBoxNS.HotkeysEditorForm.resources
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.csproj.GenerateResource.cache
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.csproj.CoreCompileInputs.cache
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.sourcelink.json
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColo.FC366FDA.Up2Date
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.dll
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\refint\FastColoredTextBox.dll
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.pdb
+C:\Users\costas\source\repos\MyRepos\QuickLibraries\QuickControls\UI\Forms\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\ref\FastColoredTextBox.dll
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.dll
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\refint\FastColoredTextBox.dll
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.pdb
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBoxNS.FindForm.resources
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBoxNS.HotkeysEditorForm.resources
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.csproj.GenerateResource.cache
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\FastColoredTextBox.csproj.CoreCompileInputs.cache
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\FastColoredTextBox.deps.json
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\FastColoredTextBox.dll
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\bin\Debug\net8.0-windows\FastColoredTextBox.pdb
+C:\Users\costas\source\repos\MyRepos\LGPLv3 Compliance\FastColoredTextBox\FastColoredTextBox\obj\Debug\net8.0-windows\ref\FastColoredTextBox.dll

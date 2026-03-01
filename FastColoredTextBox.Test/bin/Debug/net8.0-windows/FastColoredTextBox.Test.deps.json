@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FastColoredTextBox.Test/1.0.0": {
+        "dependencies": {
+          "FastColoredTextBox": "1.0.0"
+        },
+        "runtime": {
+          "FastColoredTextBox.Test.dll": {}
+        }
+      },
+      "FastColoredTextBox/1.0.0": {
+        "runtime": {
+          "FastColoredTextBox.dll": {
+            "assemblyVersion": "2.16.26.0",
+            "fileVersion": "2.16.26.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FastColoredTextBox.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FastColoredTextBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

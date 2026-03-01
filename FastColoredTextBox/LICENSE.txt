@@ -1,0 +1,22 @@
+FastColoredTextBox - Third Party Component Notice
+==================================================
+
+FastColoredTextBox
+Copyright (C) Pavel Torgashov, 2011-2016
+Email: pavel_torgashov@ukr.net
+
+License: GNU Lesser General Public License v3 (LGPLv3)
+
+This software uses FastColoredTextBox, licensed under the GNU Lesser General
+Public License version 3. The full text of the LGPLv3 license can be found at:
+
+    https://www.gnu.org/licenses/lgpl-3.0.html
+
+In accordance with the LGPLv3, the source code for FastColoredTextBox is
+available at:
+
+    https://github.com/PavelTorgashov/FastColoredTextBox
+
+THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.

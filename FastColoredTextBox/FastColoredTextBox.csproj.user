@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AutocompleteMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="DocumentMap.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FastColoredTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FctbButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FctbForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FindForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GoToForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HotkeysEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReplaceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ruler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnfocusablePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
